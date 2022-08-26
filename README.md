@@ -78,4 +78,4 @@ npm run test
 
 ### Output of the Deployment
 
-![apps image](./img/app-image.jpg)
+![_](./img/app-image.jpg)
