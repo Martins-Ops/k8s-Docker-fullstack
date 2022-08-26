@@ -78,9 +78,4 @@ npm run test
 
 ### Output of the Deployment
 
-
-<figure>
-    <img src="/app-image.JPG"
-         alt="App image">
-    <figcaption>Output of the Deployed app with the NodePort and IP created.</figcaption>
-</figure>
+![app-image](app-image.JPG)
